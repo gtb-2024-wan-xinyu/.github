@@ -1,4 +1,3 @@
-# .github
 # Hi, I'm Xinyu Wan.
 
 You can call me "WanWan"
